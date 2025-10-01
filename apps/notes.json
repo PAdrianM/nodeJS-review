@@ -1,0 +1,22 @@
+[
+  {
+    "id": 4,
+    "body": "Esta es la prueba de una nota guardada en un objeto."
+  },
+  {
+    "id": 5,
+    "body": "Esta es una app que te permite guardar una nota convertido a un objeto JSON"
+  },
+  {
+    "id": 6,
+    "body": "Hola estoy usando picocolor"
+  },
+  {
+    "id": 7,
+    "body": "Hola estoy usando picocolor 2"
+  },
+  {
+    "id": 8,
+    "body": "Hola estoy usando picocolor 2"
+  }
+]
