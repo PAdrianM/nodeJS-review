@@ -1,0 +1,12 @@
+### Para obtener todos los personajes
+GET http://localhost:1234/simpsons/characters
+
+### Para crear un nuevo personaje
+POST http://localhost:1234/simpsons
+Content-Type: application/json
+
+{
+  "name": "Homero",
+  "age": 39,
+  "species": "Human"
+}
