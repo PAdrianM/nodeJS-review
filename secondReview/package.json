@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev:1": "nodemon http.js",
-    "dev:2": "nodemon routing.js"
-
+    "dev:2": "nodemon routing.js",
+    "dev:3": "node --watch ./expressReview/express.js"
   },
   "keywords": [],
   "author": "",
@@ -16,5 +16,8 @@
   "devDependencies": {
     "nodemon": "3.1.10",
     "standard": "17.1.2"
+  },
+  "dependencies": {
+    "express": "5.1.0"
   }
 }
