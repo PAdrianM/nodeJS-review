@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "body": "Test de nueva task",
+    "completed": true
+  },
+  {
+    "id": 2,
+    "body": "Test de nueva task 2",
+    "completed": false
+  }
+]
